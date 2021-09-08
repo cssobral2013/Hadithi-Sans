@@ -46,7 +46,7 @@ E: <nadine@arabictype.com>
 W: <http://arabictype.com/>  
 D: Designer of Lexend Arabic (derived from Lexend Latin)
 
-N: Cristiano Sobral
-E: cssobral2013@gmail.com
-W: https://github.com/cssobral2013
+N: Cristiano Sobral  
+E: <cssobral2013@gmail.com>   
+W: <https://github.com/cssobral2013>  
 D: Changes described in Changelog
