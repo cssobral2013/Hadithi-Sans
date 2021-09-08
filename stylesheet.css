@@ -1,0 +1,139 @@
+@font-face {
+    font-family: 'Hadithi Sans';
+    src: url('web/HadithiSans-ExtraLight.woff2') format('woff2'),
+        url('web/HadithiSans-ExtraLight.woff') format('woff'),
+        url('ttf/HadithiSans-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hadithi Sans';
+    src: url('web/HadithiSans-ExtraLightItalic.woff2') format('woff2'),
+        url('web/HadithiSans-ExtraLightItalic.woff') format('woff'),
+        url('ttf/HadithiSans-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hadithi Sans';
+    src: url('web/HadithiSans-Light.woff2') format('woff2'),
+        url('web/HadithiSans-Light.woff') format('woff'),
+        url('ttf/HadithiSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hadithi Sans';
+    src: url('web/HadithiSans-LightItalic.woff2') format('woff2'),
+        url('web/HadithiSans-LightItalic.woff') format('woff'),
+        url('ttf/HadithiSans-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hadithi Sans';
+    src: url('web/HadithiSans-Regular.woff2') format('woff2'),
+        url('web/HadithiSans-Regular.woff') format('woff'),
+        url('ttf/HadithiSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hadithi Sans';
+    src: url('HadithiSans-Italic.woff2') format('woff2'),
+        url('HadithiSans-Italic.woff') format('woff'),
+        url('HadithiSans-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hadithi Sans';
+    src: url('web/HadithiSans-Medium.woff2') format('woff2'),
+        url('web/HadithiSans-Medium.woff') format('woff'),
+        url('ttf/HadithiSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hadithi Sans';
+    src: url('web/HadithiSans-MediumItalic.woff2') format('woff2'),
+        url('web/HadithiSans-MediumItalic.woff') format('woff'),
+        url('ttf/HadithiSans-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+ font-family: 'Hadithi Sans';
+    src: url('web/HadithiSans-SemiBold.woff2') format('woff2'),
+        url('web/HadithiSans-SemiBold.woff') format('woff'),
+        url('ttf/HadithiSans-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hadithi Sans';
+    src: url('web/HadithiSans-SemiBoldItalic.woff2') format('woff2'),
+        url('web/HadithiSans-SemiBoldItalic.woff') format('woff'),
+        url('ttf/HadithiSans-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hadithi Sans';
+    src: url('web/HadithiSans-Bold.woff2') format('woff2'),
+        url('web/HadithiSans-Bold.woff') format('woff'),
+        url('ttf/HadithiSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hadithi Sans';
+    src: url('web/HadithiSans-BoldItalic.woff2') format('woff2'),
+        url('web/HadithiSans-BoldItalic.woff') format('woff'),
+        url('ttf/HadithiSans-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hadithi Sans';
+    src: url('HadithiSans-ExtraBold.woff2') format('woff2'),
+        url('HadithiSans-ExtraBold.woff') format('woff'),
+        url('HadithiSans-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hadithi Sans';
+    src: url('web/HadithiSans-ExtraBoldItalic.woff2') format('woff2'),
+        url('web/HadithiSans-ExtraBoldItalic.woff') format('woff'),
+        url('ttf/HadithiSans-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
