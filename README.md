@@ -1,15 +1,8 @@
-# Lexend Font Family
+# Hadithi Sans Font Family
 
-## [www.lexend.com](http://www.lexend.com)
 
-Lexend is a variable typeface designed by Bonnie Shaver-Troup and Thomas Jockin in 2018.
-Applying the Shaver-Troup Individually Optimal Text Formation Factors, studies have found readers instantaneously improve their reading fluency.
-
-Lexend was expaned to Arabic in January 2020. The Shaver-Troup Formulation was applied to Arabic with advisement from Arabic Typeface Designer, Nadine Chahine.
-
-This font is based on the Quicksand project from Andrew Paglinawan, initiated in 2008.
-Quicksand was improved in 2016 by Thomas Jockin for Google Fonts. Thomas modified Quicksand for the specialized task of improving reading fluency in low-proficiency readers (including those with dyslexia.)
-
+Hadithi Sans ('Legend' in Swahili) is developed from and inspired by Lexend. Changes are
+described in Changelog below.
 
 ## ChangeLog
 
@@ -22,13 +15,11 @@ Quicksand was improved in 2016 by Thomas Jockin for Google Fonts. Thomas modifie
 - Expansion to Arabic script
 - Bug fixes in Latin Character Set
 
-
-##  Where To Get It
-
-* Via the website's [download form](https://www.lexend.com/#download)
-* Directly from [GitHub](https://github.com/ThomasJockin/lexend/tree/master/fonts)
-* From [CTAN](https://www.ctan.org/pkg/lexend): `tlmgr install lexend`
-* From [Homebrew](https://brew.sh/): `brew cask install font-lexend-deca`
+2021 September 7 (Cristiano Sobral) Hadithi Sans
+- Removed oblique apexes in 2, 3, 4, and 7
+- Flattened Stylistic Set 01 (so it removes the most distinctive glyphs from Lexend)
+- Changed Q crossbar to touch the circle, instead of crossing it
+- Optimized vertical metrics
 
 
 ## Acknowledgements
@@ -55,4 +46,7 @@ E: <nadine@arabictype.com>
 W: <http://arabictype.com/>  
 D: Designer of Lexend Arabic (derived from Lexend Latin)
 
-For more information about this font please visit [www.lexend.com](http://www.lexend.com)
+N: Cristiano Sobral
+E: cssobral2013@gmail.com
+W: https://github.com/cssobral2013
+D: Changes described in Changelog
