@@ -16,6 +16,7 @@ described in Changelog below.
 - Bug fixes in Latin Character Set
 
 2021 September 7 (Cristiano Sobral) Hadithi Sans
+- Added oblique italics (14 styles in total)
 - Removed oblique apexes in 2, 3, 4, and 7
 - Flattened Stylistic Set 01 (so it removes the most distinctive glyphs from Lexend)
 - Changed Q crossbar to touch the circle, instead of crossing it
