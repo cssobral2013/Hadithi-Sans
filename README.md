@@ -20,6 +20,7 @@ described in Changelog below.
 - Removed oblique apexes in 2, 3, 4, and 7
 - Flattened Stylistic Set 01 (so it removes the most distinctive glyphs from Lexend)
 - Changed Q crossbar to touch the circle, instead of crossing it
+- Changed t to hooky
 - Optimized vertical metrics
 
 
