@@ -23,6 +23,10 @@ described in Changelog below.
 - Changed t to hooky
 - Optimized vertical metrics
 
+2022 March 24 (Cristiano Sobral) Hadithi Sans
+- Optically correct forms in some characters (by deskewing)
+- Changed Q crossbar
+- Reverted t to straight
 
 ## Acknowledgements
 
