@@ -30,6 +30,11 @@ described in Changelog below.
 - Flat-top W/w
 - Added tabular figures (0-9)
 
+2025 June 20-21 (Cristiano Sobral) Hadithi Sans
+- Remastered to 8 weights plus matching italics and variable Font
+- Changed t to hooky (again)
+- Imported Greek/Cyrillic glyphs from Raleway and Reddit Sans
+
 ## Acknowledgements
 
 If you make modifications be sure to add your name (N), email (E), web-address (if you have one) (W) and description (D). This list is in alphabetical order.
@@ -57,4 +62,4 @@ D: Designer of Lexend Arabic (derived from Lexend Latin)
 N: Cristiano Sobral  
 E: <cssobral2013@gmail.com>   
 W: <https://github.com/cssobral2013>  
-D: Changes described in Changelog
+D: Main changes

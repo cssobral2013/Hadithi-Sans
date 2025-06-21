@@ -1,5 +1,25 @@
 @font-face {
     font-family: 'Hadithi Sans';
+    src: url('web/HadithiSans-Thin.woff2') format('woff2'),
+        url('web/HadithiSans-Thin.woff') format('woff'),
+        url('ttf/HadithiSans-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hadithi Sans';
+    src: url('web/HadithiSans-ThinItalic.woff2') format('woff2'),
+        url('web/HadithiSans-ThinItalic.woff') format('woff'),
+        url('ttf/HadithiSans-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hadithi Sans';
     src: url('web/HadithiSans-ExtraLight.woff2') format('woff2'),
         url('web/HadithiSans-ExtraLight.woff') format('woff'),
         url('ttf/HadithiSans-ExtraLight.ttf') format('truetype');
